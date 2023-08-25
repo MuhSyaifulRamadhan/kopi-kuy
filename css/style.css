@@ -62,6 +62,7 @@ body {
    kenapa pada body? karena elemen body membungkus semua elemen dari nav section sampai footer
    */
    font-family: 'Poppins';
+   background-color: rgba(149, 250, 187, 0.37);
 }
 
 /*
